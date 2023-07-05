@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebin</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **frontend Devlopment.**
+- 🌱 I’m currently learning **frontend Devlopment, Django.**
 
 - 💬 Ask me about **Python - Tkinter, Django.**
 
