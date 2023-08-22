@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ebin</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **frontend Devlopment, Django.**
+- 🌱 I’m currently learning **frontend Devlopment, React-Native.**
 
-- 💬 Ask me about **Python - Tkinter, Django.**
+- 💬 Ask me about **Python - Tkinter, Django, Pandas.**
 
 
 <h3 align="left">Connect with me:</h3>
