@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **frontend Devlopment, React-Native.**
 
-- 💬 Ask me about **Python - Tkinter, Django, Javascript, React-Native.**
+- 💬 Ask me about **Python - Tkinter, Django, JavaScript, React-Native.**
 
 
 <h3 align="left">Connect with me:</h3>
